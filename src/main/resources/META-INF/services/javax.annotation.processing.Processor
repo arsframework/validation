@@ -1,0 +1,16 @@
+com.arsframework.validation.processing.GtValidateProcessor
+com.arsframework.validation.processing.GeValidateProcessor
+com.arsframework.validation.processing.LtValidateProcessor
+com.arsframework.validation.processing.LeValidateProcessor
+com.arsframework.validation.processing.EqValidateProcessor
+com.arsframework.validation.processing.NeValidateProcessor
+com.arsframework.validation.processing.IsValidateProcessor
+com.arsframework.validation.processing.NotValidateProcessor
+com.arsframework.validation.processing.MaxValidateProcessor
+com.arsframework.validation.processing.MinValidateProcessor
+com.arsframework.validation.processing.SizeValidateProcessor
+com.arsframework.validation.processing.BoolValidateProcessor
+com.arsframework.validation.processing.OptionValidateProcessor
+com.arsframework.validation.processing.FormatValidateProcessor
+com.arsframework.validation.processing.NonnullValidateProcessor
+com.arsframework.validation.processing.NonemptyValidateProcessor
